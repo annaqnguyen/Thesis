@@ -1,0 +1,22 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Topic Definition}{2}%
+\contentsline {subsection}{\numberline {1.1}Motivation}{2}%
+\contentsline {subsection}{\numberline {1.2}Project Outline}{3}%
+\contentsline {subsubsection}{\numberline {1.2.1}Objectives}{3}%
+\contentsline {section}{\numberline {2}Background}{4}%
+\contentsline {subsection}{\numberline {2.1}Power Quality Disturbances}{4}%
+\contentsline {subsection}{\numberline {2.2}Existing Event Detection Methods}{5}%
+\contentsline {subsubsection}{\numberline {2.2.1}Waveform Abnormality Methods}{5}%
+\contentsline {subsubsection}{\numberline {2.2.2}Wavelet Analysis}{7}%
+\contentsline {subsubsection}{\numberline {2.2.3}Artificial Neural Networks (Adaline)}{9}%
+\contentsline {subsection}{\numberline {2.3}Existing Event Classification Methods}{11}%
+\contentsline {subsubsection}{\numberline {2.3.1}Artificial Neural Networks}{11}%
+\contentsline {subsubsection}{\numberline {2.3.2}Probabilistic Neural Networks}{12}%
+\contentsline {subsubsection}{\numberline {2.3.3}Fuzzy Expert Systems}{13}%
+\contentsline {subsubsection}{\numberline {2.3.4}Support Vector Machines}{14}%
+\contentsline {section}{\numberline {3}Project Plan}{16}%
+\contentsline {subsection}{\numberline {3.1}Milestones}{16}%
+\contentsline {subsection}{\numberline {3.2}Risk Assessment}{18}%
+\contentsline {subsection}{\numberline {3.3}OHS Risk Assessment}{19}%
+\contentsline {section}{\numberline {4}Bibliography}{20}%
