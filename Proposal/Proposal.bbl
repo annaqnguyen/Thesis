@@ -1,0 +1,359 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{QCA}{report}{}
+      \name{author}{1}{}{%
+        {{hash=6614ba0d30c57b4888731505dc848699}{%
+           family={{Queensland Competition Authority}},
+           familyi={Q\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Queensland Competition Authority}%
+      }
+      \strng{namehash}{6614ba0d30c57b4888731505dc848699}
+      \strng{fullhash}{6614ba0d30c57b4888731505dc848699}
+      \strng{bibnamehash}{6614ba0d30c57b4888731505dc848699}
+      \strng{authorbibnamehash}{6614ba0d30c57b4888731505dc848699}
+      \strng{authornamehash}{6614ba0d30c57b4888731505dc848699}
+      \strng{authorfullhash}{6614ba0d30c57b4888731505dc848699}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Guaranteed Service Levels: performance by Energex and Ergon Energy for 2018–19}
+      \field{type}{Compliance}
+      \field{year}{2019}
+    \endentry
+    \entry{PQ}{manual}{}
+      \name{author}{1}{}{%
+        {{hash=d928e29fd0d37ba2d9dcacdc97865ec3}{%
+           family={{Institute of Electrical and Electronics Engineers (IEEE)}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{d928e29fd0d37ba2d9dcacdc97865ec3}
+      \strng{fullhash}{d928e29fd0d37ba2d9dcacdc97865ec3}
+      \strng{bibnamehash}{d928e29fd0d37ba2d9dcacdc97865ec3}
+      \strng{authorbibnamehash}{d928e29fd0d37ba2d9dcacdc97865ec3}
+      \strng{authornamehash}{d928e29fd0d37ba2d9dcacdc97865ec3}
+      \strng{authorfullhash}{d928e29fd0d37ba2d9dcacdc97865ec3}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{IEEE} Recommended Practice for Monitoring Electric Power Quality}
+      \field{year}{2019}
+    \endentry
+    \entry{WA}{report}{}
+      \name{author}{3}{}{%
+        {{hash=4bb4b425f0a3cb7964d1ce4195dbc0c9}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Benzhe},
+           giveni={B\bibinitperiod}}}%
+        {{hash=de71e755366e323e14092aa455a5a1e9}{%
+           family={Jing},
+           familyi={J\bibinitperiod},
+           given={Yindi},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=e53f146201a8ca086b56cce7af53a575}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Wilsun},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{4665b1b26adc59970aa628a6ad405c5d}
+      \strng{fullhash}{4665b1b26adc59970aa628a6ad405c5d}
+      \strng{bibnamehash}{4665b1b26adc59970aa628a6ad405c5d}
+      \strng{authorbibnamehash}{4665b1b26adc59970aa628a6ad405c5d}
+      \strng{authornamehash}{4665b1b26adc59970aa628a6ad405c5d}
+      \strng{authorfullhash}{4665b1b26adc59970aa628a6ad405c5d}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Generic Waveform Abnormality Detection Method for Utility Equipment Condition Monitoring}
+      \field{type}{Technical}
+      \field{year}{2017}
+    \endentry
+    \entry{PES}{report}{}
+      \name{author}{1}{}{%
+        {{hash=d928e29fd0d37ba2d9dcacdc97865ec3}{%
+           family={{Institute of Electrical and Electronics Engineers (IEEE)}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{institution}{2}{%
+        {IEEE Power}%
+        {Energy Society}%
+      }
+      \strng{namehash}{d928e29fd0d37ba2d9dcacdc97865ec3}
+      \strng{fullhash}{d928e29fd0d37ba2d9dcacdc97865ec3}
+      \strng{bibnamehash}{d928e29fd0d37ba2d9dcacdc97865ec3}
+      \strng{authorbibnamehash}{d928e29fd0d37ba2d9dcacdc97865ec3}
+      \strng{authornamehash}{d928e29fd0d37ba2d9dcacdc97865ec3}
+      \strng{authorfullhash}{d928e29fd0d37ba2d9dcacdc97865ec3}
+      \field{extraname}{2}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Electric Signatures of Power Equipment Failures}
+      \field{type}{Technical}
+      \field{year}{2019}
+    \endentry
+    \entry{FFC}{patent}{}
+      \name{author}{4}{}{%
+        {{hash=f0a7237f43c81b17a8ad13af21d0415a}{%
+           family={Mousavi},
+           familyi={M\bibinitperiod},
+           given={Mirrasoul\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=897eeb3800015af46bc7b70d887a9ee8}{%
+           family={McGowan},
+           familyi={M\bibinitperiod},
+           given={John\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=2e636cb0ab9e8eefdbeb86c68342c3b1}{%
+           family={Stoupis},
+           familyi={S\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=7b0ec13af99c559d55e0c093def7405f}{%
+           family={Donde},
+           familyi={D\bibinitperiod},
+           given={Vaibhav\bibnamedelima D.},
+           giveni={V\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{27260377ba3bb2641ede43334e81ec94}
+      \strng{fullhash}{1a9517733b480b4fc9bb80a25516fe3d}
+      \strng{bibnamehash}{1a9517733b480b4fc9bb80a25516fe3d}
+      \strng{authorbibnamehash}{1a9517733b480b4fc9bb80a25516fe3d}
+      \strng{authornamehash}{27260377ba3bb2641ede43334e81ec94}
+      \strng{authorfullhash}{1a9517733b480b4fc9bb80a25516fe3d}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{US 8,390,302 B2}
+      \field{title}{Apparatus and method for adaptive fault detection in MV distribution circuits}
+      \field{year}{2013}
+    \endentry
+    \entry{AD}{report}{}
+      \name{author}{3}{}{%
+        {{hash=a2b14ab17396b941c1c9e0ade8182d3d}{%
+           family={Abdel-Galil},
+           familyi={A\bibinithyphendelim G\bibinitperiod},
+           given={T.K.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=b37885d22669b7be9dc31c42fca071aa}{%
+           family={Saadany},
+           familyi={S\bibinitperiod},
+           given={E.F.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=7e3a16b8d3517cf1e753ce7119021a21}{%
+           family={Salama},
+           familyi={S\bibinitperiod},
+           given={M.M.A.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{institution}{2}{%
+        {Department of Electrical}%
+        {Computer Engineering, University of Waterloo}%
+      }
+      \strng{namehash}{3eccea8f1843fd0dab541eb9d766e0d6}
+      \strng{fullhash}{3eccea8f1843fd0dab541eb9d766e0d6}
+      \strng{bibnamehash}{3eccea8f1843fd0dab541eb9d766e0d6}
+      \strng{authorbibnamehash}{3eccea8f1843fd0dab541eb9d766e0d6}
+      \strng{authornamehash}{3eccea8f1843fd0dab541eb9d766e0d6}
+      \strng{authorfullhash}{3eccea8f1843fd0dab541eb9d766e0d6}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Power quality event detection using Adaline}
+      \field{type}{Technical}
+      \field{year}{2003}
+    \endentry
+    \entry{ANNClass}{article}{}
+      \name{author}{3}{}{%
+        {{hash=598b23aa1d91ecc718ab7610aeb1e413}{%
+           family={Uyar},
+           familyi={U\bibinitperiod},
+           given={Muray},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5971db911da448d5ef3f38bd1ae667ac}{%
+           family={Yildirim},
+           familyi={Y\bibinitperiod},
+           given={Selcuk},
+           giveni={S\bibinitperiod}}}%
+        {{hash=f18fe88a3fea86f2e5a626cc49e93a1c}{%
+           family={Gencoglu},
+           familyi={G\bibinitperiod},
+           given={Muhsin\bibnamedelima Tunay},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{e252b82eeb3bb5c43b81ab9a81d71c35}
+      \strng{fullhash}{e252b82eeb3bb5c43b81ab9a81d71c35}
+      \strng{bibnamehash}{e252b82eeb3bb5c43b81ab9a81d71c35}
+      \strng{authorbibnamehash}{e252b82eeb3bb5c43b81ab9a81d71c35}
+      \strng{authornamehash}{e252b82eeb3bb5c43b81ab9a81d71c35}
+      \strng{authorfullhash}{e252b82eeb3bb5c43b81ab9a81d71c35}
+      \field{sortinit}{8}
+      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Expert Systems with Applications}
+      \field{title}{An expert system based on S-transform and neural network for automatic classification of power quality disturbances}
+      \field{year}{2009}
+    \endentry
+    \entry{PNN}{report}{}
+      \name{author}{3}{}{%
+        {{hash=cf6175868a36df58c12a4f225404732a}{%
+           family={Mishra},
+           familyi={M\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e61e1ef1f9a2f3c9870bf4fd09225816}{%
+           family={Bhende},
+           familyi={B\bibinitperiod},
+           given={C.\bibnamedelimi N.},
+           giveni={C\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=018a27561b035b8ec77778a94fbee69f}{%
+           family={Panigrahi},
+           familyi={P\bibinitperiod},
+           given={B.\bibnamedelimi K.},
+           giveni={B\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{2ef45e019ed0bf28432a993ea8dba3ac}
+      \strng{fullhash}{2ef45e019ed0bf28432a993ea8dba3ac}
+      \strng{bibnamehash}{2ef45e019ed0bf28432a993ea8dba3ac}
+      \strng{authorbibnamehash}{2ef45e019ed0bf28432a993ea8dba3ac}
+      \strng{authornamehash}{2ef45e019ed0bf28432a993ea8dba3ac}
+      \strng{authorfullhash}{2ef45e019ed0bf28432a993ea8dba3ac}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Detection and Classification of Power Quality Disturbances Using S-Transform and Probabilistic Neural Network}
+      \field{type}{Technical}
+      \field{year}{2008}
+    \endentry
+    \entry{KF}{article}{}
+      \name{author}{3}{}{%
+        {{hash=eab819bb1308928eb5a6b32cd1053c3e}{%
+           family={Abdelsalam},
+           familyi={A\bibinitperiod},
+           given={Abdelazeem\bibnamedelima A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=cb281127155504e079b366cd7796326f}{%
+           family={Eldesouky},
+           familyi={E\bibinitperiod},
+           given={Azza\bibnamedelima A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=fac826abf48e1c3f28153a7292a7e0ae}{%
+           family={Sallam},
+           familyi={S\bibinitperiod},
+           given={Abdelhay\bibnamedelima A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{37e7f433196caedecf11517497126172}
+      \strng{fullhash}{37e7f433196caedecf11517497126172}
+      \strng{bibnamehash}{37e7f433196caedecf11517497126172}
+      \strng{authorbibnamehash}{37e7f433196caedecf11517497126172}
+      \strng{authornamehash}{37e7f433196caedecf11517497126172}
+      \strng{authorfullhash}{37e7f433196caedecf11517497126172}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Electric Power Systems Research}
+      \field{title}{Characterization of power quality disturbances using hybrid technique of linear Kalman filter and fuzzy-expert system}
+      \field{year}{2012}
+    \endentry
+    \entry{SVMdiag}{online}{}
+      \name{author}{2}{}{%
+        {{hash=3d37fd31154fa153c6b01afb68001a27}{%
+           family={Papadonikolakis},
+           familyi={P\bibinitperiod},
+           given={Markos},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3f70f6b20ce94266c13b043069e2b964}{%
+           family={Bouganis},
+           familyi={B\bibinitperiod},
+           given={Christos-Savvas},
+           giveni={C\bibinithyphendelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{837aa5b06111bc152d7fe48bc08d4311}
+      \strng{fullhash}{837aa5b06111bc152d7fe48bc08d4311}
+      \strng{bibnamehash}{837aa5b06111bc152d7fe48bc08d4311}
+      \strng{authorbibnamehash}{837aa5b06111bc152d7fe48bc08d4311}
+      \strng{authornamehash}{837aa5b06111bc152d7fe48bc08d4311}
+      \strng{authorfullhash}{837aa5b06111bc152d7fe48bc08d4311}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Novel Cascade FPGA Accelerator for Support Vector Machines Classification}
+      \field{year}{2010}
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6197724
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6197724
+      \endverb
+    \endentry
+    \entry{SVM}{article}{}
+      \name{author}{2}{}{%
+        {{hash=5711fee7dacf5eaa4c443786ed1cefc9}{%
+           family={Babu},
+           familyi={B\bibinitperiod},
+           given={N.\bibnamedelimi Ramesh},
+           giveni={N\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=7f40839a462829f061d25f792c985931}{%
+           family={Mohan},
+           familyi={M\bibinitperiod},
+           given={B.\bibnamedelimi Jagan},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{b157bd9e43bfc039e98ec9bda1f7c6fb}
+      \strng{fullhash}{b157bd9e43bfc039e98ec9bda1f7c6fb}
+      \strng{bibnamehash}{b157bd9e43bfc039e98ec9bda1f7c6fb}
+      \strng{authorbibnamehash}{b157bd9e43bfc039e98ec9bda1f7c6fb}
+      \strng{authornamehash}{b157bd9e43bfc039e98ec9bda1f7c6fb}
+      \strng{authorfullhash}{b157bd9e43bfc039e98ec9bda1f7c6fb}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Ain Shams Engineering Journal}
+      \field{title}{Fault classification in power systems using EMD and SVM}
+      \field{year}{2015}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
